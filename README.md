@@ -7,9 +7,9 @@
 ### Co-Working Startup Web Design project
 
 ## Target Users:
->Potential Members who are currently looking for workspace to rent from single desk/office to office suites to house an entire team
->Local professionals who need occasional meeting space downtown
->Sales and Marketing team at Co-Working Startup.
+*Potential Members who are currently looking for workspace to rent, from single desk/office to office suites.
+*Local professionals who need occasional meeting space downtown
+*Sales and Marketing team at Co-Working Startup.
 
 ## User Stories:
 *As a small business owner, I want to quickly assess the atmosphere of this building and decide if the space is inline with our brand.
