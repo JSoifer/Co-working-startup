@@ -43,7 +43,7 @@
 
 And here is the first wireframe for the mobile design:
 
-![mobile homepage](img/homepage-mobile.JPG)
+![mobile homepage](img/homepage-mobile.png)
 
 ## Setup/Installation Requirements
 
