@@ -12,3 +12,53 @@ $font-stack: Al-Bayan, sans-serif;
   padding: 1rem;
   background-color: $blue;
 }
+.bar-1 {
+  grid-area: bar-1;
+}
+.bar-2 {
+  grid-area: bar-2;
+}
+.bar-3 {
+  grid-area: bar-3;
+}
+.bar-4 {
+  grid-area: bar-4;
+}
+.bar-5 {
+  grid-area: bar-5;
+}
+.bar-6 {
+  grid-area: bar-6;
+}
+.section-top {
+  grid-area: section-top;
+}
+.section-2 {
+  grid-area: section-2;
+}
+.section-3 {
+  grid-area: section-3;
+}
+.section-4 {
+  grid-area: section-4;
+}
+.section-5 {
+  grid-area: section-5;
+}
+.body-wrapper {
+  display: grid;
+  width: 100%;
+  grid-template-areas:
+  "bar-1"
+  "section-top"
+  "bar-2"
+  "section-2"
+  "bar-3"
+  "section-3"
+  "bar-4"
+  "section-4"
+  "bar-5"
+  "section-5"
+  "bar-6"
+
+}
