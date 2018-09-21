@@ -12,6 +12,7 @@ $font-stack: Al-Bayan, sans-serif;
   padding: 1rem;
   background-color: $blue;
 }
+
 .bar-1 {
   grid-area: bar-1;
 }
@@ -69,5 +70,11 @@ $font-stack: Al-Bayan, sans-serif;
 .section {
   position: relative;
   width: 100%;
-
+  img {
+    width: 100%;
+    position: relative;
+  }
+  button {
+    width: 100%;
+  }
 }
