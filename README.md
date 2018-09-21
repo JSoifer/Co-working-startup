@@ -47,6 +47,7 @@ And here are the first wireframes for the mobile design:
 ![mobile homepage](img/membership-options.png)
 ![mobile homepage](img/contact-us.png)
 ![mobile homepage](img/thank-you.png)
+![mobile homepage](img/amenities.png)
 
 ## Setup/Installation Requirements
 
