@@ -1,0 +1,31 @@
+{
+  "name": "work-design-project",
+  "version": "1.0.0",
+  "description": "#### _Code review project week 2 and 3 of User Interfaces at Epicodus, a school for tech careers. This is a design concept for a client who is opening a new office and workspace building. Design process is followed and documented throughout project and shown here in this README and in the attached sketch files.  2018_",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSoifer/Co-working-startup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSoifer/Co-working-startup/issues"
+  },
+  "homepage": "https://github.com/JSoifer/Co-working-startup#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.10",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.20.2",
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9",
+    "webpack-dev-server": "^3.1.0"
+  }
+}
