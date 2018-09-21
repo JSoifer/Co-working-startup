@@ -41,9 +41,12 @@
 
 ![mobile sketches](img/IMG_3383.JPG)
 
-And here is the first wireframe for the mobile design:
+And here are the first wireframes for the mobile design:
 
 ![mobile homepage](img/homepage-mobile.png)
+![mobile homepage](img/membership-options.png)
+![mobile homepage](img/contact-us.png)
+![mobile homepage](img/thank-you.png)
 
 ## Setup/Installation Requirements
 
