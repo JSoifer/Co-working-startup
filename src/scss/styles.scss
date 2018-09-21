@@ -1,0 +1,14 @@
+//variables
+$blue: #6595A6;
+$pink: #C22828;
+$font-stack: Al-Bayan, sans-serif;
+
+//mixins
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  height: 8vh;
+  padding: 1rem;
+  background-color: $blue;
+}
