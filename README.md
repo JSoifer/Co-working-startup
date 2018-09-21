@@ -49,6 +49,8 @@ And here are the first wireframes for the mobile design:
 ![mobile homepage](img/thank-you.png)
 ![mobile homepage](img/amenities.png)
 
+>link to the prototype:
+[link] https://sketch.cloud/s/MMDR3
 ## Setup/Installation Requirements
 
 
