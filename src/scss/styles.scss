@@ -60,5 +60,14 @@ $font-stack: Al-Bayan, sans-serif;
   "bar-5"
   "section-5"
   "bar-6"
+}
+.div-bar {
+  width: 100%;
+  height: 1em;
+  background-color: $pink;
+}
+.section {
+  position: relative;
+  width: 100%;
 
 }
